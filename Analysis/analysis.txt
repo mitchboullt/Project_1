@@ -5,9 +5,10 @@
 	The NBA hosts a combine ever year for the world’s top prospects. Over the last 20 years, stats like Height, Reach and Vertical Leap have been record for every player that attends the combine. 
 Given the athletic nature of basketball,Do MVPs must have above average physical attributes?We compared the Height, Reach and Vertical Leap  of Lebron James, Derrick Rose,Kevin Durant, Steph Curry, Russell Westbrook and James Harden( every MVP that attended the combine) to the  league average.MVPs ability to jump high is an advantage, while their Height and Reach for the majority of the MVPS were below the league average. MVPs are physically gifted but not more than the average player.
 	MVPs are expected to contribute more than any other players in their team, not to say in the entire league. Besides media vote, a player’s consistent performance matters.Three primary rubrics to enter the mvp contention list: Points per game, rebounds per game and assist per game. Every MVP ranked the highest in the league in each of these categories through the year.While size can help, basketball is a game of skill and finesse. 
-	To conclude,The path to the NBA is less important than the Team they are playing but both are big factors
-Since the 80’s the position they play is less important
-skill and consistency is more important than physical attributes.
+	To conclude,The path to the NBA is less important than the Team they are playing but both are big factors. Since the 80’s the position they play is less important. Skill and consistency is more important than physical attributes.
+
+For visuals view the graphs.docx
+
 
 
 	
