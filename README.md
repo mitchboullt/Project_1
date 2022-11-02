@@ -5,7 +5,7 @@ We as a group decided to look into the data related to basket ball and eventuall
 1.	Which college has produced the highest number of MVPS.
 2.	Which team produced the most MVP players.
 3.  The most valuable player and their position.
-4.	Find average height of the MVP players.
+4.	Find physical attributes of the MVP players.
 
 We as a team have tried our best to find answers to these questions and hence uncover if there is any other attribute other than their skill sets that is making these players stand out.
 
